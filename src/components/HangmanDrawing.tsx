@@ -85,6 +85,8 @@ const LEFT_LEG = (
 );
 
 const HangmanDrawing = () => {
+  console.log("hello");
+
   return (
     <div style={{ position: "relative" }}>
       {HEAD}
